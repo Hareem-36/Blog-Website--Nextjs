@@ -1,0 +1,7 @@
+@media (max-width: 720px) {
+    .iframeContainer {
+      width: 100%; /* Adjust width to fit smaller screens */
+      height: 300px; /* Reduce height for better layout on small screens */
+    }
+  }
+  
